@@ -1,21 +1,27 @@
 # Step 1
-Welcome to the crazy wonderful world of blockchains and cryptocurrencies! 
+So you've got a basic idea of what a blockchain is and the problem it's trying to solve. Or... maybe you don't and you just want to get your hands on some cryptocurrencies and start playing around with it yourself.
 
-So you've heard about this new technology that people are saying is going to change the world, maybe you know someone that's made some money from it, or maybe you're just a little curious about what the fuss is all about. Step 1 of Crypto GPS is the place to start to see where this journey will take you and hopefully get closer to where you want to be (and maybe even figure out where that somewhere is).
+## Table of Contents
+- [How do I get some cryptocurrency](#how-do-i-get-some-cryptocurrency)
+  - [Wallets](#wallets)
+  - [Exchanges](#exchanges)
 
-## Where it all started
-Pretty much everything in the world of cryptocurrencies start from a shared root. If you want to put yourself on a solid footing in this industry, whether trading, researching, developing, or starting a business, it's important to understand *why* we have blockchains and cryptocurrencies in the first place and where they came from. 
+## How do I get some cryptocurrency?
+### Wallets
+Nearly all cryptocurrencies in existence require a wallet in order to hold funds in the currency. For the more developed projects, these manage a lot of the complicated cryptographic processes that happen behind the scenes. Good wallets let you backup and recover your funds, are encrypted, and have varying levels of security. The following are the different kinds from least to most secure with links to learn more for different cryptocurrencies:
 
-### Byzantine Generals' Problem
-This is a computer science dating back to the early 1980s that deals with the issue of trust within a system with incomplete information. In a system of digital money for example, how do you ensure that the person sending you money actually owns that money and how do you prove that you have received it when sent? Before blockchains, this was resolved through trusted third parties like Visa, PayPal, ACH, and central banks. 
+#### Hosted Wallets
 
-[Read More](./cryptography/bgp.md)
+#### SPV/Light Client Wallets
 
-### Bitcoin Predecessors
-[B-money](http://nakamotoinstitute.org/b-money/#selection-23.28-23.383)
-[Hashcash](http://www.hashcash.org/)
-[Bit Gold](http://nakamotoinstitute.org/bit-gold/)
+#### Full Node
 
-### Bitcoin
-[Original Bitcoin Whitepaper](http://nakamotoinstitute.org/bitcoin/)
-[Crypto GPS - Bitcoin](./bitcoin/introduction.md)
+#### Hardware Wallets
+
+#### Cold Storage
+
+#### Paper Wallet
+
+
+### Exchanges
+Unless you directly earn cryptocurrency in exchange for goods or services, you will need an exchange in order to buy and sell cryptocurrency from your native currency. The two primary kinds of exchanges are Crypto-to-Crypto and Fiat-to-Crypto, where the latter generally requires a more rigorous registration process as the services are required to comply with local KYC (Know Your Customer) and AML (Anti-Money Laundering) regulations.
