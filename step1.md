@@ -1,10 +1,12 @@
-# Step 1
+# Step 1 - Getting Started
+
 So you've got a basic idea of what a blockchain is and the problem it's trying to solve. Or... maybe you don't and you just want to get your hands on some cryptocurrencies and start playing around with it yourself.
 
 ## Table of Contents
 - [How do I get some cryptocurrency](#how-do-i-get-some-cryptocurrency)
   - [Wallets](#wallets)
   - [Exchanges](#exchanges)
+- [Next Steps](#next-steps)
 
 ## How do I get some cryptocurrency?
 ### Wallets
@@ -25,3 +27,9 @@ Nearly all cryptocurrencies in existence require a wallet in order to hold funds
 
 ### Exchanges
 Unless you directly earn cryptocurrency in exchange for goods or services, you will need an exchange in order to buy and sell cryptocurrency from your native currency. The two primary kinds of exchanges are Crypto-to-Crypto and Fiat-to-Crypto, where the latter generally requires a more rigorous registration process as the services are required to comply with local KYC (Know Your Customer) and AML (Anti-Money Laundering) regulations.
+
+## Next Steps
+- [Step 2](./step2.md) - Blockchains
+- [Cryptography](./cryptography/introduction.md)
+- [Bitcoin](./bitcoin/introduction.md)
+- [Ethereum](./ethereum/introduction.md)
