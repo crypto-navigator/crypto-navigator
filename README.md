@@ -16,6 +16,10 @@ This project is also blockchain agnostic. The focus will be on the most high-pro
 ## Contribution Guidelines
 Just like any other GitHub project, fork the repo, make your change, and submit a PR for review. Changes may be requested usually around requests for more details and readability or to improve organization. Since we're trying to cover a wide range of topics and interests, from technical, to consumer level, to investment, all questions, answers, and resources are welcome as long they help to further knowledge related to the subject matter of blockchains and cryptocurrencies.
 
+#### Have a question you'd like answered?
+Submit your question as a GitHub Issue. Other people can then look through pending issues for questions they would like to answer and submit as a PR. Or if you find the answer yourself, you can submit a PR to answer your own question!
+
+
 ## Start Your Journey
 - [Step 0](./step0.md) - The "Whys" of cryptocurrency and blockchains
 - [Step 1](./step1.md) - Getting started with wallets and exchanges
