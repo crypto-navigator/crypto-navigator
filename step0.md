@@ -47,6 +47,7 @@ A lot of what is behind Bitcoin and the related blockchains that it later inspir
 
 
 ## Next Steps
+- [Step 0](./step0.md) - The "Whys" of cryptocurrency and blockchains
 - [Step 1](./step1.md) - Getting started with wallets and exchanges
 - [Step 2](./step2.md) - Blockchains
 - [Cryptography](./cryptography/introduction.md)
