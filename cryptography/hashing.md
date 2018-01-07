@@ -1,0 +1,2 @@
+# Hashing Algorithms
+## Introduction

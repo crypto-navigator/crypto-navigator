@@ -26,6 +26,6 @@ Almost all cryptocurrencies currently in circulation are either a direct fork of
 
 ## Foundational Technologies
 A lot of what is behind Bitcoin and the related blockchains that it later inspired is based off of much older technologies that had been in use for decades, mostly in the area of cryptography. Follow the links below to learn more about how they work:
-- ECDSA (Elliptic Curve Digital Signature Algorithm)
-- Public Key Cryptography
-- Hashing algorithms (e.g. SHA256)
+- [ECDSA (Elliptic Curve Digital Signature Algorithm)](./cryptography/ecdsa.md)
+- [Public Key Cryptography](./cryptography/public-key.md)
+- [Hashing algorithms](./cryptography/hashing.md) (e.g. SHA256)
