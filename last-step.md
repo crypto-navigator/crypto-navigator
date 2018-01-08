@@ -10,7 +10,7 @@ Crypto specific resources will also be in their respective pages, but this will 
 
 ### Podcasts
 
-### Forums/Reddit
+### Forums/Sub-Reddits
 
 ## IRL
 Important groups and organizations

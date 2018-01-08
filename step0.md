@@ -11,7 +11,7 @@ So you've heard about this new technology that people are saying is going to cha
   - [Bitcoin](#bitcoin)
 - [Foundational Technologies](#foundational-technologies)
 - [Further Reading](#further-reading)
-- [Next Steps](#next-steps)
+- [Crypto GPS](#crypto-gps)
 
 ## Where it all started
 Pretty much everything in the world of cryptocurrencies start from a shared root. If you want to put yourself on a solid footing in this industry, whether trading, researching, developing, or starting a business, it's important to understand *why* we have blockchains and cryptocurrencies in the first place and where they came from.
@@ -46,10 +46,11 @@ A lot of what is behind Bitcoin and the related blockchains that it later inspir
 - [What Gives Bitcoin Value](https://blog.purse.io/what-gives-bitcoin-value-pt-1-7be2ff880d9c) (Parts [1](https://blog.purse.io/what-gives-bitcoin-value-pt-1-7be2ff880d9c), [2](https://blog.purse.io/what-gives-bitcoin-value-part-2-2144f55550b1), and [3](https://blog.purse.io/what-gives-bitcoin-value-pt-3-22a62e065d23)) by Buck Perley
 
 
-## Next Steps
+## Crypto GPS
 - [Step 0](./step0.md) - The "Whys" of cryptocurrency and blockchains
 - [Step 1](./step1.md) - Getting started with wallets and exchanges
 - [Step 2](./step2.md) - Blockchains
+- [Last Step](./last-step.md) - Follow the Conversation and Get Involved
 - [Cryptography](./cryptography/introduction.md)
 - [Bitcoin](./bitcoin/introduction.md)
 - [Ethereum](./ethereum/introduction.md)

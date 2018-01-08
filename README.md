@@ -19,11 +19,11 @@ Just like any other GitHub project, fork the repo, make your change, and submit 
 #### Have a question you'd like answered?
 Submit your question as a GitHub Issue. Other people can then look through pending issues for questions they would like to answer and submit as a PR. Or if you find the answer yourself, you can submit a PR to answer your own question!
 
-
 ## Start Your Journey
 - [Step 0](./step0.md) - The "Whys" of cryptocurrency and blockchains
 - [Step 1](./step1.md) - Getting started with wallets and exchanges
 - [Step 2](./step2.md) - Blockchains
+- [Last Step](./last-step.md) - Follow the Conversation and Get Involved
 - [Cryptography](./cryptography/introduction.md)
 - [Bitcoin](./bitcoin/introduction.md)
 - [Ethereum](./ethereum/introduction.md)

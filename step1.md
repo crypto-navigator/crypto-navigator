@@ -6,7 +6,7 @@ So you've got a basic idea of what a blockchain is and the problem it's trying t
 - [How do I get some cryptocurrency](#how-do-i-get-some-cryptocurrency)
   - [Wallets](#wallets)
   - [Exchanges](#exchanges)
-- [Next Steps](#next-steps)
+- [Crypto GPS](#crypto-gps)
 
 ## How do I get some cryptocurrency?
 ### Wallets
@@ -28,10 +28,11 @@ Nearly all cryptocurrencies in existence require a wallet in order to hold funds
 ### Exchanges
 Unless you directly earn cryptocurrency in exchange for goods or services, you will need an exchange in order to buy and sell cryptocurrency from your native currency. The two primary kinds of exchanges are Crypto-to-Crypto and Fiat-to-Crypto, where the latter generally requires a more rigorous registration process as the services are required to comply with local KYC (Know Your Customer) and AML (Anti-Money Laundering) regulations.
 
-## Next Steps
+## Crypto GPS
 - [Step 0](./step0.md) - The "Whys" of cryptocurrency and blockchains
 - [Step 1](./step1.md) - Getting started with wallets and exchanges
 - [Step 2](./step2.md) - Blockchains
+- [Last Step](./last-step.md) - Follow the Conversation and Get Involved
 - [Cryptography](./cryptography/introduction.md)
 - [Bitcoin](./bitcoin/introduction.md)
 - [Ethereum](./ethereum/introduction.md)
