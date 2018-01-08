@@ -12,6 +12,8 @@ Crypto specific resources will also be in their respective pages, but this will 
 
 ### Forums/Reddit
 
+### Newsletters
+
 ## IRL
 Important groups and organizations
 
