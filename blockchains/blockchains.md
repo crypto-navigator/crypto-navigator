@@ -25,7 +25,7 @@ Learn about the underlying technology behind distributed, decentralized networks
 - [Step 0](./step0.md) - The "Whys" of cryptocurrency and blockchains
 - [Step 1](./step1.md) - Getting started with wallets and exchanges
 - [Last Step](./last-step.md) - Follow the Conversation and Get Involved
-- [Blockchains](./blockchains/blockchains.md) - Blockchains
+- [Blockchains](./blockchains/blockchains.md)
 - [Cryptography](./cryptography/introduction.md)
 - [Bitcoin](./bitcoin/introduction.md)
 - [Ethereum](./ethereum/introduction.md)
