@@ -11,7 +11,7 @@ So you've heard about this new technology that people are saying is going to cha
   - [Bitcoin](#bitcoin)
 - [Foundational Technologies](#foundational-technologies)
 - [Further Reading](#further-reading)
-- [Crypto GPS](#crypto-gps)
+- [Navigator](#navigator)
 
 ## Where it all started
 Pretty much everything in the world of cryptocurrencies start from a shared root. If you want to put yourself on a solid footing in this industry, whether trading, researching, developing, or starting a business, it's important to understand *why* we have blockchains and cryptocurrencies in the first place and where they came from.
