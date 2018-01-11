@@ -46,11 +46,11 @@ A lot of what is behind Bitcoin and the related blockchains that it later inspir
 - [What Gives Bitcoin Value](https://blog.purse.io/what-gives-bitcoin-value-pt-1-7be2ff880d9c) (Parts [1](https://blog.purse.io/what-gives-bitcoin-value-pt-1-7be2ff880d9c), [2](https://blog.purse.io/what-gives-bitcoin-value-part-2-2144f55550b1), and [3](https://blog.purse.io/what-gives-bitcoin-value-pt-3-22a62e065d23)) by Buck Perley
 
 
-## Crypto GPS
+## Navigator
 - [Step 0](./step0.md) - The "Whys" of cryptocurrency and blockchains
 - [Step 1](./step1.md) - Getting started with wallets and exchanges
-- [Step 2](./step2.md) - Blockchains
 - [Last Step](./last-step.md) - Follow the Conversation and Get Involved
+- [Blockchains](./blockchains/blockchains.md) - Blockchains
 - [Cryptography](./cryptography/introduction.md)
 - [Bitcoin](./bitcoin/introduction.md)
 - [Ethereum](./ethereum/introduction.md)

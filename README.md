@@ -1,4 +1,4 @@
-# crypto-gps
+# Crypto Navigator
 ([skip below to start your journey](#start-your-journey))
 
 ## Introduction
@@ -14,16 +14,16 @@ The structure is a mix of wiki-style written answers, edited by the community, a
 This project is also blockchain agnostic. The focus will be on the most high-profile projects (e.g. Bitcoin, Ethereum, etc.) as these have the most information and interest and so will have dedicated sections, but these can be expanded based on interest and contributions (questions and answers). Sections and pages should be roughly organized by topics (investment, cryptography, blockchains/projects) and within those by difficulty (beginner, intermediate, and advanced).
 
 ## Contribution Guidelines
-Just like any other GitHub project, fork the repo, make your change, and submit a PR for review. Changes may be requested usually around requests for more details and readability or to improve organization. Since we're trying to cover a wide range of topics and interests, from technical, to consumer level, to investment, all questions, answers, and resources are welcome as long they help to further knowledge related to the subject matter of blockchains and cryptocurrencies.
+See our [contribution guidelines](./CONTRIBUTING.md) to get started.
 
 #### Have a question you'd like answered?
 Submit your question as a GitHub Issue. Other people can then look through pending issues for questions they would like to answer and submit as a PR. Or if you find the answer yourself, you can submit a PR to answer your own question!
 
-## Start Your Journey
+## Navigator
 - [Step 0](./step0.md) - The "Whys" of cryptocurrency and blockchains
 - [Step 1](./step1.md) - Getting started with wallets and exchanges
-- [Step 2](./step2.md) - Blockchains
 - [Last Step](./last-step.md) - Follow the Conversation and Get Involved
+- [Blockchains](./blockchains/blockchains.md) - Blockchains
 - [Cryptography](./cryptography/introduction.md)
 - [Bitcoin](./bitcoin/introduction.md)
 - [Ethereum](./ethereum/introduction.md)

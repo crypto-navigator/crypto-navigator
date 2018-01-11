@@ -28,11 +28,11 @@ Nearly all cryptocurrencies in existence require a wallet in order to hold funds
 ### Exchanges
 Unless you directly earn cryptocurrency in exchange for goods or services, you will need an exchange in order to buy and sell cryptocurrency from your native currency. The two primary kinds of exchanges are Crypto-to-Crypto and Fiat-to-Crypto, where the latter generally requires a more rigorous registration process as the services are required to comply with local KYC (Know Your Customer) and AML (Anti-Money Laundering) regulations.
 
-## Crypto GPS
+## Navigator
 - [Step 0](./step0.md) - The "Whys" of cryptocurrency and blockchains
 - [Step 1](./step1.md) - Getting started with wallets and exchanges
-- [Step 2](./step2.md) - Blockchains
 - [Last Step](./last-step.md) - Follow the Conversation and Get Involved
+- [Blockchains](./blockchains/blockchains.md) - Blockchains
 - [Cryptography](./cryptography/introduction.md)
 - [Bitcoin](./bitcoin/introduction.md)
 - [Ethereum](./ethereum/introduction.md)
