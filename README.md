@@ -23,7 +23,7 @@ Submit your question as a GitHub Issue. Other people can then look through pendi
 - [Step 0](./step0.md) - The "Whys" of cryptocurrency and blockchains
 - [Step 1](./step1.md) - Getting started with wallets and exchanges
 - [Last Step](./last-step.md) - Follow the Conversation and Get Involved
-- [Blockchains](./blockchains/blockchains.md) - Blockchains
+- [Blockchains](./blockchains/blockchains.md)
 - [Cryptography](./cryptography/introduction.md)
 - [Bitcoin](./bitcoin/introduction.md)
 - [Ethereum](./ethereum/introduction.md)
