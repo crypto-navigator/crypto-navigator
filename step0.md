@@ -44,6 +44,7 @@ A lot of what is behind Bitcoin and the related blockchains that it later inspir
 ## Further Reading
 - [Money, Blockchains, and Social Scalability](https://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html) by Nick Szabo
 - [What Gives Bitcoin Value](https://blog.purse.io/what-gives-bitcoin-value-pt-1-7be2ff880d9c) (Parts [1](https://blog.purse.io/what-gives-bitcoin-value-pt-1-7be2ff880d9c), [2](https://blog.purse.io/what-gives-bitcoin-value-part-2-2144f55550b1), and [3](https://blog.purse.io/what-gives-bitcoin-value-pt-3-22a62e065d23)) by Buck Perley
+- [Bitcoin Resources](https://lopp.net/bitcoin.html) - One of the most comprehensive list of Bitcoin resources by BitGo engineer Jameson Lopp
 
 
 ## Navigator
@@ -52,5 +53,5 @@ A lot of what is behind Bitcoin and the related blockchains that it later inspir
 - [Last Step](./last-step.md) - Follow the Conversation and Get Involved
 - [Blockchains](./blockchains/blockchains.md) - Blockchains
 - [Cryptography](./cryptography/introduction.md)
-- [Bitcoin](./bitcoin/introduction.md)
-- [Ethereum](./ethereum/introduction.md)
+- [Bitcoin](./bitcoin/bitcoin.md)
+- [Ethereum](./ethereum/ethereum.md)
