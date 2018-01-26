@@ -9,7 +9,8 @@ Crypto specific resources will also be in their respective pages, but this will 
 - [Erik Voorhees](https://twitter.com/ErikVoorhees)
 - [Ryan Selkis](https://twitter.com/twobitidiot)
 - [Vitalik Buterin](https://twitter.com/VitalikButerin)
-- [Jameson Lopp](https://twitter.com/lopp)(Bitcoin)
+- [Vlad Zamfir](https://twitter.com/VladZamfir)
+- [Jameson Lopp](https://twitter.com/lopp) (Bitcoin focused)
 
 ### Medium
 - [TwoBitIdiot](https://medium.com/@twobitidiot)
@@ -17,7 +18,7 @@ Crypto specific resources will also be in their respective pages, but this will 
 - [Fred Ehrsam](https://medium.com/@FEhrsam)
 
 ### Podcasts
-- [Let's Talk Bitcoin](https://letstalkbitcoin.com/)(Network)
+- [Let's Talk Bitcoin](https://letstalkbitcoin.com/) (Network)
 - [Epicenter](https://epicenter.tv/)
 
 ### Forums/Sub-Reddits
