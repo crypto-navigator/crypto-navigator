@@ -18,3 +18,14 @@
 #### Delegated Proof of Stake
 [INTRO CONTENT]
 [Read More](./blockchains/delegated-pos.md)
+
+## Navigator
+- [Step 0](./step0.md) - The "Whys" of cryptocurrency and blockchains
+- [Step 1](./step1.md) - Buy, Store, and Secure your Cryptocurrencies
+- [Step 2](./step2.md) - Technical Basics
+- [Step 3](./step3.md) - Crypto beyond currencies
+- [Last Step](./last-step.md) - Follow the Conversation and Get Involved
+- [Blockchains](./blockchains/blockchains.md)
+- [Cryptography](./cryptography/introduction.md)
+- [Bitcoin](./bitcoin/bitcoin.md)
+- [Ethereum](./ethereum/ethereum.md)
