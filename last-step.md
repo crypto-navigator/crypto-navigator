@@ -14,7 +14,6 @@ Crypto specific resources will also be in their respective pages, but this will 
 
 ### Medium
 - [TwoBitIdiot](https://medium.com/@twobitidiot)
-- [Nassim Taleb](https://medium.com/@nntaleb)
 - [Fred Ehrsam](https://medium.com/@FEhrsam)
 
 ### Podcasts
