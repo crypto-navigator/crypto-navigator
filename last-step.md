@@ -12,6 +12,12 @@ Crypto specific resources will also be in their respective pages, but this will 
 - [Vlad Zamfir](https://twitter.com/VladZamfir)
 - [Jameson Lopp](https://twitter.com/lopp) (Bitcoin focused)
 
+### YouTube
+- [Crypto Daily](https://www.youtube.com/channel/UC67AEEecqFEc92nVvcqKdhA)
+- [Ivan on Tech](https://www.youtube.com/channel/UCrYmtJBtLdtm2ov84ulV-yg)
+- [BoxMining with Michael](https://www.youtube.com/channel/UCxODjeUwZHk3p-7TU-IsDOA)
+- [Suppoman](https://www.youtube.com/user/Suppoman2011)
+
 ### Medium
 - [TwoBitIdiot](https://medium.com/@twobitidiot)
 - [Fred Ehrsam](https://medium.com/@FEhrsam)
