@@ -1,6 +1,6 @@
 # ECDSA (Elliptic Curve Digital Signature Algorithm)
 
-## Introduction
+## Background
 
 ## How its used in cryptocurrencies
 
