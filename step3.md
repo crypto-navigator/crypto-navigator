@@ -5,7 +5,7 @@
 ## Prediction Markets
 
 ## Governance
-- [Bitcoin Hivemind](http://bitcoinhivemind.com/)- Blockchain governance solution using drivechain (sidechains) and prediction markets on the Bitcoin blockchain
+- [Bitcoin Hivemind](http://bitcoinhivemind.com/)- Governance solution using drivechain (sidechains) and prediction markets on the Bitcoin blockchain
 - [Crypto Governance and the Dangers of Faction](https://medium.com/@BuckPerley/crypto-governance-f1318affbbe0) - Comparison between governance in Bitcoin and the U.S. constitutional structure
 - [Blockchain Governance - Programming our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74) - An overview of the state of governance solutions in the blockchain ecosystem
 - [Decentralized Governance in Dash](https://www.dash.org/governance/) - Decentralized Governance by Blockchain, or DGBB, is Dash's attempt to solve two important problems in cryptocurrency: governance and funding.
