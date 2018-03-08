@@ -25,6 +25,8 @@ Crypto specific resources will also be in their respective pages, but this will 
 ### Podcasts
 - [Let's Talk Bitcoin](https://letstalkbitcoin.com/) (Network)
 - [Epicenter](https://epicenter.tv/)
+- [Unchained](http://unchainedpodcast.co/)
+- [Unconfirmed](http://unconfirmedpodcast.com)
 
 ### Forums/Sub-Reddits
 
