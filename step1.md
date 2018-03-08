@@ -21,16 +21,22 @@ Unless you directly earn cryptocurrency in exchange for goods or services, you w
 Nearly all cryptocurrencies in existence require a wallet in order to hold funds in the currency. For the more developed projects, these manage a lot of the complicated cryptographic processes that happen behind the scenes. Good wallets let you backup and recover your funds, are encrypted, and have varying levels of security. The following are the different kinds from least to most secure with links to learn more for different cryptocurrencies:
 
 #### Hosted Wallets
+* [Blockchain](https://blockchain.info/wallet) (iOS|Android|Web)
 
 #### SPV/Light Client Wallets
+- [breadwallet](https://breadapp.com/) (iOS|Android)
 
 #### Full Node
+- [Bitcoin Core](https://bitcoin.org/en/download) (Windows|Mac|Linux)
 
 #### Hardware Wallets
+- [Ledger](https://www.ledgerwallet.com/)
 
 #### Cold Storage
+- [Bitcoin Armory](https://btcarmory.com/) (Windows|Mac|Linux)
 
 #### Paper Wallet
+- [bitaddress.org](https://bitaddress.org) - This [video](https://www.youtube.com/watch?v=VTsHeiBhPIM) outlines how to use bitaddress.org.
 
 ## Secure
 [Needs content]
