@@ -5,12 +5,26 @@ Crypto specific resources will also be in their respective pages, but this will 
 ## Who/Where to Follow
 
 ### Twitter
-- [Naval Ravikant](https://twitter.com/naval)
-- [Erik Voorhees](https://twitter.com/ErikVoorhees)
-- [Ryan Selkis](https://twitter.com/twobitidiot)
-- [Vitalik Buterin](https://twitter.com/VitalikButerin)
-- [Vlad Zamfir](https://twitter.com/VladZamfir)
-- [Jameson Lopp](https://twitter.com/lopp) (Bitcoin focused)
+- [Naval Ravikant](https://twitter.com/naval), co-founder of AngelList & proponent of blockchain
+- [Erik Voorhees](https://twitter.com/ErikVoorhees), CEO of ShapeShift
+- [Ryan Selkis](https://twitter.com/twobitidiot), former managing director of CoinDesk
+- [Vitalik Buterin](https://twitter.com/VitalikButerin), creator of Ethereum
+- [Vlad Zamfir](https://twitter.com/VladZamfir), Ethereum Development team member
+- [Jameson Lopp](https://twitter.com/lopp) (Bitcoin focused), creator of Statoshi.info and organizer of Bitcoin SIG
+- [Andreas M. Antonopoulos](https://twitter.com/aantonop), author of 'Mastering Bitcoin' and 'The Internet of Money'
+- [Nick Szabo](https://twitter.com/NickSzabo4), creator of bit gold and early blockchain and cryptocurrency pioneer
+- [Charlie Lee](https://twitter.com/SatoshiLite), creator of Litecoin, former Director of Engineering at Coinbase
+- [Brian Armstrong](https://twitter.com/brian_armstrong), co-founder & CEO of Coinbase
+- [Roger Ver](https://twitter.com/rogerkver), one of the first investors in Bitcoin startups, a.k.a. Bitcoin Jesus
+- [Don Tapscott](https://twitter.com/dtapscott), Executive Director at Blockchain Research Institute and author of 'Blockchain Revolution'
+- [Gavin Andresen](https://twitter.com/gavinandresen), one of the original Bitcoin Core developers
+- [Jihan Wu](https://www.twitter.com/jihanwu), co-founder of Bitmain, currently the world's largest manufacturer of bitcoin mining parts
+- [Laura Shin](https://twitter.com/laurashin), blockchain tech reporter and host of 'Unchained' and 'Unconfirmed'
+- [Tyler Winklevoss](https://twitter.com/tylerwinklevoss), Principal of Winklevoss Capital, co-founder of Gemini and bitcoin advocate
+- [Vinny Lingham](https://twitter.com/VinnyLingham), founder of Civic (CVC), a.k.a 'Bitcoin Oracle'
+- [Charlie Shrem](https://twitter.com/CharlieShrem), co-founder of the Bitcoin Foundation and early Bitcoin evangelist and investor
+- [Bobby Lee](https://twitter.com/bobbyclee), CEO and co-founder of BTCC, China's first bitcoin exchange
+- [Fred Wilson](https://twitter.com/fredwilson), managing partner of Union Square Ventures (large investor in Coinbase) and blockchain advocate
 
 ### YouTube
 - [Crypto Daily](https://www.youtube.com/channel/UC67AEEecqFEc92nVvcqKdhA)
