@@ -43,6 +43,8 @@ Crypto specific resources will also be in their respective pages, but this will 
 - [Unconfirmed](http://unconfirmedpodcast.com)
 
 ### Forums/Sub-Reddits
+- [bitcointalk.org](https://bitcointalk.org/)
+- [r/Bitcoin](https://www.reddit.com/r/Bitcoin/)
 
 ### Newsletters
 - [Coindesk](https://www.coindesk.com/newsletter/)
