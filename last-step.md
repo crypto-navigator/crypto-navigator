@@ -27,10 +27,14 @@ Crypto specific resources will also be in their respective pages, but this will 
 - [Fred Wilson](https://twitter.com/fredwilson), managing partner of Union Square Ventures (large investor in Coinbase) and blockchain advocate
 
 ### YouTube
+- [Blockchain at Berkeley](https://www.youtube.com/channel/UC5sgoRfoSp3jeX4DEqKLwKg/playlists)
+- [Ethereum Foundation](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g/playlists)
+- [Jackson Palmer](https://www.youtube.com/user/jacksonpalmerbc), creator of Dogecoin
 - [Crypto Daily](https://www.youtube.com/channel/UC67AEEecqFEc92nVvcqKdhA)
 - [Ivan on Tech](https://www.youtube.com/channel/UCrYmtJBtLdtm2ov84ulV-yg)
 - [BoxMining with Michael](https://www.youtube.com/channel/UCxODjeUwZHk3p-7TU-IsDOA)
 - [Suppoman](https://www.youtube.com/user/Suppoman2011)
+- [aantonop](https://www.youtube.com/user/aantonop)
 
 ### Medium
 - [TwoBitIdiot](https://medium.com/@twobitidiot)
