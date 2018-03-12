@@ -49,6 +49,10 @@ Crypto specific resources will also be in their respective pages, but this will 
 - [Block Zero](http://www.blockzero.show/)
 
 ### Forums/Sub-Reddits
+- [bitcointalk.org](https://bitcointalk.org/)
+- [r/Bitcoin](https://www.reddit.com/r/Bitcoin/)
+- [r/btc] (https://www.reddit.com/r/btc/)
+- [r/ethereum] (https://www.reddit.com/r/ethereum/)
 
 ### Newsletters
 - [Inside Bitcoin](https://inside.com/bitcoin)
