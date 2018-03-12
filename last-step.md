@@ -46,6 +46,7 @@ Crypto specific resources will also be in their respective pages, but this will 
 - [bitcointalk.org](https://bitcointalk.org/)
 - [r/Bitcoin](https://www.reddit.com/r/Bitcoin/)
 - [r/btc] (https://www.reddit.com/r/btc/)
+- [r/ethereum] (https://www.reddit.com/r/ethereum/)
 
 ### Newsletters
 - [Coindesk](https://www.coindesk.com/newsletter/)
