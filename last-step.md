@@ -45,6 +45,9 @@ Crypto specific resources will also be in their respective pages, but this will 
 ### Forums/Sub-Reddits
 
 ### Newsletters
+- [Inside Bitcoin](https://inside.com/bitcoin)
+- [Token Economy](http://weekly.tokeneconomy.co/)
+- [Week in Ethereum](http://www.weekinethereum.com/)
 - [Coindesk](https://www.coindesk.com/newsletter/)
 - [Bitcoin Tech Talk](https://bitcointechtalk.com/)
 
