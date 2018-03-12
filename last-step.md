@@ -41,6 +41,8 @@ Crypto specific resources will also be in their respective pages, but this will 
 - [Epicenter](https://epicenter.tv/)
 - [Unchained](http://unchainedpodcast.co/)
 - [Unconfirmed](http://unconfirmedpodcast.com)
+- [Software Engineering Daily - Blockchain](https://softwareengineeringdaily.com/category/blockchain/)
+- [Block Zero](http://www.blockzero.show/)
 
 ### Forums/Sub-Reddits
 
