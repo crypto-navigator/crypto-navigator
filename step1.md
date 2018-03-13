@@ -16,6 +16,24 @@ So you've got a basic idea of what a blockchain is and the problem it's trying t
 ### Exchanges
 Unless you directly earn cryptocurrency in exchange for goods or services, you will need an exchange in order to buy and sell cryptocurrency from your native currency. The two primary kinds of exchanges are Crypto-to-Crypto and Fiat-to-Crypto, where the latter generally requires a more rigorous registration process as the services are required to comply with local KYC (Know Your Customer) and AML (Anti-Money Laundering) regulations.
 
+Below you'll find a non-exhaustive list of some of the exchanges you can use to buy/sell/trade cryptocurrency.
+
+#### Fiat-to-Crypto Exchanges
+- [Coinbase](https://www.coinbase.com/) & [GDAX](https://www.gdax.com/) (USD|EUR/Crypto)
+- [Gemini](https://gemini.com/) (USD/Crypto)
+- [Robinhood](https://crypto.robinhood.com/) (USD/Crypto)
+- [Square Cash](https://cash.me/) (USD/Crypto)
+- [Bithumb](https://www.bithumb.com/) (KRW/Crypto)
+- [bitFlyer](https://bitflyer.jp/) (JPY/Crypto)
+- [Local Bitcoins](https://localbitcoins.com/) 
+
+#### Crypto-to-Crypto Exchanges
+- [Binance](https://www.binance.com/)
+- [Poloniex](https://poloniex.com/)
+- [Bittrex](https://bittrex.com/)
+- [Kraken](https://www.kraken.com/)
+- [GDAX](https://www.gdax.com/)
+
 ## Store
 ### Wallets
 Nearly all cryptocurrencies in existence require a wallet in order to hold funds in the currency. For the more developed projects, these manage a lot of the complicated cryptographic processes that happen behind the scenes. Good wallets let you backup and recover your funds, are encrypted, and have varying levels of security. The following are the different kinds from least to most secure with links to learn more for different cryptocurrencies:
