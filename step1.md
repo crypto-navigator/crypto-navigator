@@ -10,6 +10,10 @@ So you've got a basic idea of what a blockchain is and the problem it's trying t
 - [Secure](#secure)
   - [Cold Storage](#cold-storage)
   - [Mnemonics](#mnemonics)
+- [Anonymize](#anonymize) 
+  - [Centralized mixing](#centralized-mixing)
+  - [In-wallet mixing](#in-wallet-mixing)
+  - [Protocol level privacy](#protocol-level-privacy)
 - [Navigator](#Navigator)
 
 ## Buy
@@ -65,6 +69,17 @@ Nearly all cryptocurrencies in existence require a wallet in order to hold funds
 ### Mnemonics
 [Needs content]
 
+## Anonymize
+[Needs content]
+
+### Centralized mixing
+[Needs content]
+
+### In-wallet mixing
+[Needs content]
+
+### Protocol level privacy
+[Needs content]
 
 ## Navigator
 - [Step 0](./step0.md) - The "Whys" of cryptocurrency and blockchains
