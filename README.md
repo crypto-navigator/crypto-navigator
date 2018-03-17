@@ -27,5 +27,6 @@ Submit your question as a GitHub Issue. Other people can then look through pendi
 - [Last Step](./last-step.md) - Follow the Conversation and Get Involved
 - [Blockchains](./blockchains/blockchains.md)
 - [Cryptography](./cryptography/introduction.md)
+- [Privacy](./privacy/privacy.md)
 - [Bitcoin](./bitcoin/bitcoin.md)
 - [Ethereum](./ethereum/ethereum.md)
