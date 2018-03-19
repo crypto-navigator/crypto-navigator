@@ -7,6 +7,13 @@ Learn about practices used to maintain privacy and how to compromise that privac
 - [Advanced](#advanced)
   - [Deanonymizing transactions](#deanonymizing-transactions)
   - [Chain analysis](#chain-analysis)
+- [Current Approaches](#current-approaches)
+  - [Coin tumbling](#coin-tumbling)
+  - [Ring signatures](#ring-signatures)
+  - [Mimblewimble](#mimblewimble)
+  - [ZK-snarks](#zk-snarks)
+  - [ZK-starks](#zk-starks)
+  - [Bulletproofs](#bulletproofs)
 - [Additional Resources](#additional-resources)
 
 ## Beginner
@@ -22,6 +29,25 @@ Learn about practices used to maintain privacy and how to compromise that privac
 [Needs content and links]
 
 ### Chain analysis
+[Needs content and links]
+
+## Current Approaches
+### Coin tumbling
+[Needs content and links]
+
+### Ring signatures
+[Needs content and links]
+
+### Mimblewimble
+[Needs content and links]
+
+### ZK-Snarks
+[Needs content and links]
+
+### ZK-Starks
+[Needs content and links]
+
+### Bulletproofs
 [Needs content and links]
 
 ## Additional Resources
