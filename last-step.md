@@ -1,6 +1,17 @@
 # Follow the Conversation and Get Involved
 Crypto specific resources will also be in their respective pages, but this will be useful to have as a single place to find these lists
 
+## Table of Contents
+- [Who/Where to Follow](#whowhere-to-follow)
+  - [Twitter](#twitter)
+  - [YouTube](#youtube)
+  - [Medium](#medium)
+  - [Podcasts](#podcasts)
+  - [Forums/Sub-Reddits](#forumssub-reddits)
+  - [Newsletters](#newsletters)
+- [IRL](#irl)
+- [Step Beyond the GPS](#step-beyond-the-gps)
+- [Navigator](#navigator)
 
 ## Who/Where to Follow
 
@@ -67,3 +78,14 @@ Important groups and organizations
 
 ## Step Beyond the GPS
 Some helpful resources for taking the next step in a career in crypto
+
+## Navigator
+- [Step 0](./step0.md) - The "Whys" of cryptocurrency and blockchains
+- [Step 1](./step1.md) - Buy, Store, and Secure your Cryptocurrencies
+- [Step 2](./step2.md) - Technical Basics
+- [Step 3](./step3.md) - Crypto beyond currencies
+- [Last Step](./last-step.md) - Follow the Conversation and Get Involved
+- [Blockchains](./blockchains/blockchains.md)
+- [Cryptography](./cryptography/introduction.md)
+- [Bitcoin](./bitcoin/bitcoin.md)
+- [Ethereum](./ethereum/ethereum.md)
