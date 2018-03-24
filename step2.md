@@ -1,5 +1,14 @@
 # Step 2 - Technical Basics
 
+## Table of Contents
+- [Blockchains](#blockchains)
+- [Mining](#mining)
+- [Proof of Work](#proof-of-work)
+  - [Advanced](#advanced)
+    - [Other Consesus Mechanisms](#other-consensus-mechanisms)
+      - [Proof of Stake](#proof-of-stake)
+      - [Delegated Proof of Stake](#delegated-proof-of-stake)
+- [Navigator](#navigator)
 
 ## Blockchains
 [INTRO]
