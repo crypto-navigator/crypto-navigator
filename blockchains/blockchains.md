@@ -7,6 +7,7 @@ Learn about the underlying technology behind distributed, decentralized networks
 - [Advanced](#advanced)
   - [On-chain Oracles](#on-chain-oracles)
 - [Additional Resources](#additional-resources)
+- [Navigator](#navigator)
 
 ## Beginner
 ### What is a blockchain?
