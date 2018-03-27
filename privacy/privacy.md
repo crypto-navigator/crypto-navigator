@@ -21,6 +21,7 @@ Learn about practices used to maintain privacy and how to compromise that privac
 [Needs content and links]
 
 #### Resources
+- [From Zero Knowledge to Bulletproofs](https://github.com/AdamISZ/from0k2bp/blob/master/testzkp.pdf)
 [Needs content and links] 
 
 
