@@ -14,6 +14,7 @@ Learn about practices used to maintain privacy and how to compromise that privac
   - [ZK-snarks](#zk-snarks)
   - [ZK-starks](#zk-starks)
   - [Bulletproofs](#bulletproofs)
+  - [Second Layer](#second-layer)
 - [Additional Resources](#additional-resources)
 
 ## Beginner
@@ -21,7 +22,6 @@ Learn about practices used to maintain privacy and how to compromise that privac
 [Needs content and links]
 
 #### Resources
-- [From Zero Knowledge to Bulletproofs](https://github.com/AdamISZ/from0k2bp/blob/master/testzkp.pdf)
 [Needs content and links] 
 
 
@@ -51,8 +51,12 @@ Learn about practices used to maintain privacy and how to compromise that privac
 ### Bulletproofs
 [Needs content and links]
 
+### Second Layer
+[Privacy in Lightning](https://snyke.net/post/privacy-in-lightning/)
+
 ## Additional Resources
 [Needs content and links]
+- [From Zero Knowledge to Bulletproofs](https://github.com/AdamISZ/from0k2bp/blob/master/testzkp.pdf)
 
 ## Navigator
 - [Step 0](../step0.md) - The "Whys" of cryptocurrency and blockchains
