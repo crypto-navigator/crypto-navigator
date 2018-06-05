@@ -1,5 +1,14 @@
 # Step 3 - Crypto Beyond Currencies
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Prediction Markets](#prediction-markets)
+- [Governance](#governance)
+- [Decentralized Apps](#decentralized-apps)
+- [Distributed Securitization](#distributed-securitization)
+- [Additional Reading](#additional-reading)
+- [Navigator](#navigator)
+
 ## Introduction
 
 ## Prediction Markets

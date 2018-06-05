@@ -1,5 +1,12 @@
 # Bitcoin
 
+#### Table of Contents
+- [Introduction](#introduction)
+- [Advanced Bitcoin concepts/development](#advanced-bitcoin-conceptsdevelopment)
+- [Lightning Network](#lightning-network)
+- [Further Reading](#further-reading)
+- [Navigator](#navigator)
+
 ## Introduction
 
 ## Advanced Bitcoin concepts/development
@@ -10,3 +17,14 @@
 
 ## Further Reading
 - [Bitcoin Resources](https://lopp.net/bitcoin.html) - One of the most comprehensive list of Bitcoin resources by BitGo engineer Jameson Lopp
+
+## Navigator
+- [Step 0](../step0.md) - The "Whys" of cryptocurrency and blockchains
+- [Step 1](../step1.md) - Buy, Store, and Secure your Cryptocurrencies
+- [Step 2](../step2.md) - Technical Basics
+- [Step 3](../step3.md) - Crypto beyond currencies
+- [Last Step](../last-step.md) - Follow the Conversation and Get Involved
+- [Blockchains](../blockchains/blockchains.md)
+- [Cryptography](../cryptography/introduction.md)
+- [Bitcoin](../bitcoin/bitcoin.md)
+- [Ethereum](../ethereum/ethereum.md)
