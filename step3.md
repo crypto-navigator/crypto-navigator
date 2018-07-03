@@ -4,6 +4,7 @@
 - [Introduction](#introduction)
 - [Prediction Markets](#prediction-markets)
 - [Governance](#governance)
+- [Distributed Storage](#distributed-storage)
 - [Decentralized Apps](#decentralized-apps)
 - [Distributed Securitization](#distributed-securitization)
 - [Additional Reading](#additional-reading)
@@ -18,6 +19,17 @@
 - [Crypto Governance and the Dangers of Faction](https://medium.com/@BuckPerley/crypto-governance-f1318affbbe0) - Comparison between governance in Bitcoin and the U.S. constitutional structure
 - [Blockchain Governance - Programming our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74) - An overview of the state of governance solutions in the blockchain ecosystem
 - [Decentralized Governance in Dash](https://www.dash.org/governance/) - Decentralized Governance by Blockchain, or DGBB, is Dash's attempt to solve two important problems in cryptocurrency: governance and funding.
+
+## Distributed Storage
+### Projects
+- [Sia](https://sia.tech/)
+- [FileCoin](https://filecoin.io/)
+- [IPFS](https://ipfs.io/)
+- [Storj](https://storj.io/)
+- [MaidSafe](https://maidsafe.net/)
+
+### Resources
+**[The Four Most Expensive Words in the English Language](https://blog.dshr.org/2018/06/the-four-most-expensive-words-in.html)**- An analysis of the history of distributed storage and a bit of a skeptic's take on the state of the efforts using blockchain technology 
 
 ## Decentralized Apps
 A.k.a. "Dapps"
